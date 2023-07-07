@@ -1,0 +1,18 @@
+.pop_item_form {
+    margin: 10px 0 10px 10px;
+}
+
+.pop_item_form input, .pop_item_form button {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.pop_item_form button {
+    transition: .2s;
+    width: 100px;
+    background-color: #0303d3;
+    color: #ffffff;
+    font-weight: bold;
+}
+.pop_item_form button:hover {background-color: #020296;}

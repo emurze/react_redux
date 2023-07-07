@@ -1,0 +1,19 @@
+.add_item_form {
+     margin: 10px 0;
+}
+
+.add_item_form input, .add_item_form button {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+
+.add_item_form button {
+    transition: .2s;
+    width: 100px;
+    background-color: #0303d3;
+    color: #ffffff;
+    font-weight: bold;
+}
+.add_item_form button:hover {background-color: #020296;}

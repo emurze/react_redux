@@ -1,0 +1,12 @@
+body {
+    color: #4b5267;
+}
+
+.app_container {
+    margin: 50px auto;
+    padding: 10px;
+    max-width: 1400px;
+    height: 800px;
+    background-color: #c2c3c4;
+    border: 1px ridge #4c4c4c;
+}
